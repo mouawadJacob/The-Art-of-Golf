@@ -1,11 +1,11 @@
 <?php
 /**
- * Twenty Twenty-Four-Child functions and definitions
+ * The-Art-of-Golf-Child functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Twenty Twenty-Four-Child
- * @since Twenty Twenty-Four-Child 1.0
+ * @package The-Art-of-Golf-Child
+ * @since The-Art-of-Golf-Child 1.0
  */
 
  function child_enqueue_scripts(){
