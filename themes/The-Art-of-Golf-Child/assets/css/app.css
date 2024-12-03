@@ -1,0 +1,22 @@
+header{
+    background-color: darkgreen;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+}
+
+header div h1 a {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+body{
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+main div h1{
+    font-weight: bolder;
+}
